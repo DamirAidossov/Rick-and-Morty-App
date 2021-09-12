@@ -45,7 +45,7 @@ Application for browsing card collection of characters from TV show "Rick and Mo
 - Application was created with JavaScript library React
 
 ## Installing and Running
-Open following wesite
+Open following website
 https://damiraidossov.github.io/Rick-and-Morty-App/ 
 
 Alternative way to open app.
