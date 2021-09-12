@@ -32,6 +32,7 @@ https://damiraidossov.github.io/Rick-and-Morty-App/
 3. Нажать на нужную страницу чтобы открыть ее или же использовать навигацию через кнопки "First", "Prev.", "Next", "Last" (Рис.1-4).
 <p align="center"><img src="https://github.com/DamirAidossov/Rick-and-Morty-App/blob/master/src/ram.png" width="750"></p>
 <p align="center">Рис.1 Приложение для просмотра коллекции персонажей мультсериала "Рик и Морти".</p>
+<p align="center">Image 1 Application for browsing card collection of characters from TV show "Rick and Morty".</p>
 
 # README
 Application for browsing card collection of characters from TV show "Rick and Morty". Feauters:  
