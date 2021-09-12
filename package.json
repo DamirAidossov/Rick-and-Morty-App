@@ -2,7 +2,7 @@
   "homepage": "https://damiraidossov.github.io",
   "name": "rick-and-morty-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
     "@testing-library/jest-dom": "^5.11.4",
