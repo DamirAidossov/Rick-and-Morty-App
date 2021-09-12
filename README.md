@@ -41,7 +41,7 @@ Application for browsing card collection of characters from TV show "Rick and Mo
 - Opening individual character in modal window when pressed on character image.
 
 ## Important information
-- In order to run app it require constant internet connection
+- In order to run app it is required to have constant internet connection
 - Application was created with JavaScript library React
 
 ## Installing and Running
