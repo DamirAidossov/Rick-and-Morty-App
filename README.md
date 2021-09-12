@@ -6,7 +6,8 @@
 - Открытие отдельных персонажей в модальном окне при нажатии на карточку персонажа.
 
 ## Важная информация
--Для работы приложения необходимо постоянное интернет подключение
+- Для работы приложения необходимо постоянное интернет подключение
+- Приложение написано с помощью JavaScript библиотеки React
 
 ## Инструкция по запуску
 Перейти на сайт 
@@ -40,7 +41,8 @@ Application for browsing card collection of characters from TV show "Rick and Mo
 - Opening individual character in modal window when pressed on character image.
 
 ## Important information
--In order to run app it require constant internet connection
+- In order to run app it require constant internet connection
+- Application was created with JavaScript library React
 
 ## Installing and Running
 Open following wesite
