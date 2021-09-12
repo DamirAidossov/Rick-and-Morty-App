@@ -1,6 +1,6 @@
 {
-  "homepage": "https://damiraidossov.github.io/Rick-and-Morty-App",
-  "name": "my-app",
+  "homepage": "https://damiraidossov.github.io",
+  "name": "rick-and-morty-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
