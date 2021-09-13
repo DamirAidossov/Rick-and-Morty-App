@@ -64,7 +64,5 @@ or
 
 ## Usage scenario
 1. Input required values to filters (image 1-1) then click button "apply" (image 1-2). You will see characters displayed for selected filter.
-2. Нажать на фотографию персонажа чтобы открыть его карточку с подробной информацией (Рис.1-3).
-3. Click on character image to open his card with detailed information (image 1-3).
-4. Нажать на нужную страницу чтобы открыть ее или же использовать навигацию через кнопки "First", "Prev.", "Next", "Last" (Рис.1-4).
-5. Open required page by clicking on it or use navigation with buttons "First", "Prev.", "Next", "Last" (image 1-4).
+2. Click on character image to open his card with detailed information (image 1-3).
+3. Open required page by clicking on it or use navigation with buttons "First", "Prev.", "Next", "Last" (image 1-4).
