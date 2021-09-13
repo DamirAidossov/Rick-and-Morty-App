@@ -10,7 +10,7 @@ body {
   display: grid;
   grid-template-columns: 17vw 17vw 17vw 17vw ;
   justify-content: space-evenly;
-  height: 79vh;
+  height: 79nvh;
   width: 75vw;
   overflow-x: hidden;
   margin-left: auto;
@@ -160,7 +160,7 @@ p{
 
 .modal {
   position: fixed; /* Stay in place */
-  z-index: 3; /* Sit on top */
+  z-index: 7; /* Sit on top */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
