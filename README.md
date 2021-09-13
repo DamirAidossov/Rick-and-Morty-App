@@ -32,6 +32,7 @@ https://damiraidossov.github.io/Rick-and-Morty-App/
 3. Нажать на нужную страницу чтобы открыть ее или же использовать навигацию через кнопки "First", "Prev.", "Next", "Last" (Рис.1-4).
 <p align="center"><img src="https://github.com/DamirAidossov/Rick-and-Morty-App/blob/master/src/ram.png" width="750"></p>
 <p align="center">Рис.1 Приложение для просмотра коллекции персонажей мультсериала "Рик и Морти".</p>
+<p align="center">Image 1 Application for browsing card collection of characters from TV show "Rick and Morty".</p>
 
 # README
 Application for browsing card collection of characters from TV show "Rick and Morty". Feauters:  
@@ -45,7 +46,7 @@ Application for browsing card collection of characters from TV show "Rick and Mo
 - Application was created with JavaScript library React
 
 ## Installing and Running
-Open following wesite
+Open following website
 https://damiraidossov.github.io/Rick-and-Morty-App/ 
 
 Alternative way to open app.
@@ -63,7 +64,5 @@ or
 
 ## Usage scenario
 1. Input required values to filters (image 1-1) then click button "apply" (image 1-2). You will see characters displayed for selected filter.
-2. Нажать на фотографию персонажа чтобы открыть его карточку с подробной информацией (Рис.1-3).
-3. Click on character image to open his card with detailed information (image 1-3).
-4. Нажать на нужную страницу чтобы открыть ее или же использовать навигацию через кнопки "First", "Prev.", "Next", "Last" (Рис.1-4).
-5. Open required page by clicking on it or use navigation with buttons "First", "Prev.", "Next", "Last" (image 1-4).
+2. Click on character image to open his card with detailed information (image 1-3).
+3. Open required page by clicking on it or use navigation with buttons "First", "Prev.", "Next", "Last" (image 1-4).
